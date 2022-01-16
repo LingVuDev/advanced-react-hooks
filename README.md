@@ -19,6 +19,8 @@
   </a>
 </div>
 
+This is a fork of [this](https://github.com/kentcdodds/advanced-react-hooks) and contains the progress of @LingVuDev
+
 <hr />
 
 <!-- prettier-ignore-start -->
